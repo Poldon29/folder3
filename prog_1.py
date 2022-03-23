@@ -1,3 +1,3 @@
-print("1")
+print("Czy działa")
 print("commit")
-print("pu")
+print("pull")
